@@ -1,3 +1,1 @@
 Hello from master branch.
-Here is some more text.
-Hello there.
